@@ -2,10 +2,10 @@
 this is the repo for team 1
 
 # Team Roles
-Mike DiFrancisco - Speaker
-Srini Sambangi - Scribe
-Scott Tucker - AWS Admin
-Tim Thomas - Project Manager
+- Mike DiFrancisco: Speaker
+- Srini Sambangi: Scribe
+- Scott Tucker: AWS Admin
+- Tim Thomas: Project Manager
 
 # Basic Workflow
 1. Everything stored in Github
